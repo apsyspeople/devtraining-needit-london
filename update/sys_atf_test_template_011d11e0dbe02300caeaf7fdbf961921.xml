@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_atf_test_template">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template">
     <sys_atf_test_template action="INSERT_OR_UPDATE">
         <description/>
         <name>NeedIt test template</name>
