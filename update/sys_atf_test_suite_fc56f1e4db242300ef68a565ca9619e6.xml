@@ -2,6 +2,7 @@
     <sys_atf_test_suite action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Testing on the NeedIt When needed field date Business Rule to make sure it works in three cases: past date, today, future.</description>
+        <input_filter/>
         <name>When needed Field NeedIt App</name>
         <parent display_value="NeedIt App">4f26b5e4db242300ef68a565ca9619af</parent>
         <sys_class_name>sys_atf_test_suite</sys_class_name>

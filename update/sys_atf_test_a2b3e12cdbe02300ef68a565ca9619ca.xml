@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
     <sys_atf_test action="INSERT_OR_UPDATE">
         <active>true</active>
+        <copied_from/>
         <description>Test generated from template. To complete this test do the following:
 1. Pick a correct user to impersonate, a user with the right roles.
 2. Insert a record to the table.
 3. Select a record and validate field values.
 4. Log an output.
 </description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
         <name>Needit test future</name>
+        <parameters/>
         <remember/>
         <sys_class_name>sys_atf_test</sys_class_name>
         <sys_created_by>admin</sys_created_by>
